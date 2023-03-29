@@ -1,0 +1,12 @@
+{
+  "name": "79u",
+  "type": "package",
+  "blockId": "uidU9uR-94TDMWchvywV8",
+  "source": {
+    "https": "https://github.com/Digambaran/79u",
+    "ssh": "git@github.com:Digambaran/79u.git"
+  },
+  "supportedAppblockVersions": [
+    "2.0.0"
+  ]
+}
